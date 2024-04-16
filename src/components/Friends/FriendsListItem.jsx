@@ -1,7 +1,6 @@
 /* Default imports */
 import style from './Friends.module.scss'
 // Code...
-import { iconSize } from 'constants';
 import { StyledFriendsList } from './Friends.styled';
 
 export const FriendsListItem = ({avatar,id,isOnline,name}) => {
