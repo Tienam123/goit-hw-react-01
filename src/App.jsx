@@ -1,7 +1,9 @@
+import style from './App.module.css'
+
 const App = () => {
   return (
       <>
-        <h1 className="all-links">Hello</h1>
+        <h1 className={style.logo}>Hello</h1>
       </>
   );
 };
