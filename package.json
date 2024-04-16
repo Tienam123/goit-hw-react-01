@@ -2,7 +2,7 @@
   "name": "react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Tienam123/goit-hw-react-01",
+  "homepage": "https://tienam123.github.io/goit-hw-react-01/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
