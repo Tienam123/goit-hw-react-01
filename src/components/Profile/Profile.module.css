@@ -1,0 +1,54 @@
+.profile {
+    color: var(--mainCardColor);
+}
+.avatar {
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border: 1px solid var(--mainCardColor);
+}
+
+.description {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.name {
+    color: #223043;
+    font-weight: 700;
+    font-size: 22px;
+
+}
+.tag {
+
+}
+.location {
+
+}
+.stats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    li  {
+        padding: 20px;
+        border: 1px solid #e7ecf1;
+        display: flex;
+        width: 33.3%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.label {
+
+}
+.quantity {
+    margin-top: 5px;
+    font-weight: 700;
+    color: #000000;
+}

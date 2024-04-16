@@ -1,0 +1,9 @@
+.transactionHistory {
+    border: 1px solid black;
+    margin: 0 auto;
+    th {
+        background: #00bcd5;
+        padding: 20px 0;
+    }
+}
+
